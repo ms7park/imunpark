@@ -168,7 +168,7 @@
         <div class="contact_box media_tablet">
             <div class="tab type_contact">
             <div class="tab_area">
-                <ul class="tab_list" role="tablist">
+                <ul class="tab_list" role="tablist"> 
                 <li class="tab_item is-active" role="none">
                     <button type="button" class="tab_btn" role="tab" aria-selected="true">
                     <span class="tab_tit">분양홍보관</span>

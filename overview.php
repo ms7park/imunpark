@@ -1,4 +1,6 @@
-
+<?php
+    include "common/_top.php"
+?>
 
     <!-- Contents -->
     <main id="content" class="container page_overview">
@@ -56,3 +58,7 @@
       </section>
     </main>
     <!-- // Contents -->
+
+<?php
+    include "common/_tail.php"
+?>

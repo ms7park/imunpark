@@ -129,9 +129,11 @@
                 <li class="header_lnb_item">
                   <a href="premium.php" class="header_lnb_link">프리미엄</a>
                 </li>
+                <!--
                 <li class="header_lnb_item">
                   <a href="airview.php" class="header_lnb_link">항공VR</a>
                 </li>
+                -->
               </ul>
             </div>
           </li>
@@ -247,9 +249,11 @@
                     <li class="header_lnb_item">
                       <a href="premium.php" class="header_lnb_link">프리미엄</a>
                     </li>
+                    <!--
                     <li class="header_lnb_item">
                       <a href="airview.php" class="header_lnb_link">항공VR</a>
                     </li>
+                    -->
                   </ul>
                 </div>
               </li>

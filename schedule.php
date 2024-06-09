@@ -8,7 +8,7 @@
       <section class="section section_sub_top is-active">
         <div class="section_inner">
           <div class="sub_top_txt is-show">
-            <h2 class="section_tit">계약안내문</h2>
+            <h2 class="section_tit">분양일정</h2>
             <strong class="sub_top_tit">Brilliant Landmark</strong>
           </div>
           <div class="sub_top_imgbox is-show">
@@ -21,9 +21,9 @@
         <div class="section_inner">
 
           <div class="sub_content_box">
-            <h3 class="sub_content_tit">계약안내문</h3>
+            <h3 class="sub_content_tit">이문 아이파크 자이 오피스텔 분양 일정</h3>
             <div class="imgbox_pop">
-              <img src="./images/app_img.jpg" alt="" class="pop_img">
+              <img src="./images/schedule_img.jpg" alt="" class="pop_img">
             </div>
           </div>
 

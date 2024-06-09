@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Noto Sans KR Regular";
+   src: url("fonts/Noto Sans KR Regular.woff") format("woff"), url("fonts/Noto Sans KR Regular.eot") format("embedded-opentype"), url("fonts/Noto Sans KR Regular.ttf") format("truetype"), url("fonts/Noto Sans KR Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}

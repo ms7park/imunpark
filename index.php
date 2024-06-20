@@ -74,8 +74,8 @@
             <span class="blind">다음 배너 보기</span>
         </div>
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-        <a href="tel:1600-4452" class="main_telephone">
-        <span class="blind">1600-6554 전화하기</span>
+        <a href="tel:010-3235-0049" class="main_telephone">
+        <span class="blind">010-3235-0049 전화하기</span>
         </a>
     </div>
     </section>
@@ -158,7 +158,7 @@
             </ul>
             <div class="contact_number">
                 <strong class="item_tit">대표문의</strong>
-                <span class="number_info"><span class="blind">전화번호</span>1600-4452</span>
+                <span class="number_info"><span class="blind">전화번호</span>010-3235-0049</span>
             </div>
             </div>
             <div class="contact_imgbox">
@@ -184,7 +184,7 @@
                 </ul>
                 <div class="contact_number">
                 <strong class="item_tit">대표문의</strong>
-                <span class="number_info"><span class="blind">전화번호</span>1600-4452</span>
+                <span class="number_info"><span class="blind">전화번호</span>010-3235-0049</span>
                 </div>
             </div>
             </div>

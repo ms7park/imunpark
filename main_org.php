@@ -336,7 +336,7 @@ $(function(){
     <div class="header_util">
         <span class="header_telephone">
         <span class="blind">전화번호</span>
-        1600-4452
+        010-3235-0049
         </span>
         <a href="https://www.im594.co.kr/html/customer/register.php" target="_blank" class="header_interest_btn">관심고객등록</a>
     </div>
@@ -552,8 +552,8 @@ $(function(){
             <span class="blind">다음 배너 보기</span>
         </div>
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-        <a href="tel:1600-4452" class="main_telephone">
-        <span class="blind">1600-6554 전화하기</span>
+        <a href="tel:010-3235-0049" class="main_telephone">
+        <span class="blind">010-3235-0049 전화하기</span>
         </a>
     </div>
     </section>
@@ -636,7 +636,7 @@ $(function(){
             </ul>
             <div class="contact_number">
                 <strong class="item_tit">대표문의</strong>
-                <span class="number_info"><span class="blind">전화번호</span>1600-4452</span>
+                <span class="number_info"><span class="blind">전화번호</span>010-3235-0049</span>
             </div>
             </div>
             <div class="contact_imgbox">
@@ -662,7 +662,7 @@ $(function(){
                 </ul>
                 <div class="contact_number">
                 <strong class="item_tit">대표문의</strong>
-                <span class="number_info"><span class="blind">전화번호</span>1600-4452</span>
+                <span class="number_info"><span class="blind">전화번호</span>010-3235-0049</span>
                 </div>
             </div>
             </div>
@@ -702,7 +702,7 @@ $(function(){
         </ul>
         <div class="footer_desc_box">
 		<p class="footer_desc">이문 아이파크 자이 오피스텔 IM594 ㅣ 이문3재정비촉진구역 주택재개발정비사업조합 ㅣ 사업자번호 : 204-86-12024<br>
-		주소 : 서울시 동대문구 망우로23길 10(휘경동)ㅣ문의 : 1600-4452<br>
+		주소 : 서울시 동대문구 망우로23길 10(휘경동)ㅣ문의 : 010-3235-0049<br>
 		※ 본 홈페이지에 사용된 CG 및 이미지들은 소비자의 이해를 돕기 위해 제작된 것으로 실제와 다를 수 있습니다.<br>
 		※ 상기 기재된 사업개요는 진행 과정에서 일부 변경될 수 있습니다.<br>
 		※ 본 홈페이지는 제작 과정상 오탈자가 있을 수 있으니 자세한 사항은 분양 홍보관에 문의하시기 바랍니다.</p>

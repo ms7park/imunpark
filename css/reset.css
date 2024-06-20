@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* Common */
+* {box-sizing: border-box;}
+body,div,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,th,td,form,fieldset,legend,input,textarea,a,button,select{margin:0;padding:0}
+body,input,textarea,select,button,table{font-family:'NotoSansKR', 'Roboto', sans-serif;font-size:16px; line-height:1.5;color:#000;background:#fff;font-weight:normal;letter-spacing:-1px;-webkit-text-size-adjust:none}
+h1,h2,h3,h4,h5,h6{font-weight:normal}
+body{overflow-x:hidden;word-wrap:break-word;word-break:keep-all}
+img,fieldset,iframe{border:0}
+img{/*max-width:100%;*/vertical-align:top}
+li{list-style:none}
+i{font-style:normal}
+em,address{font-style:normal}
+address{}
+input,select,button{vertical-align:middle;box-sizing:border-box}
+button{border:0;background:none;cursor:pointer}
+
+/* Common Add */
+caption,legend,.blind{overflow:hidden;position:absolute;width:1px;height:1px;margin:-1px;clip:rect(0 0 0 0)}
+caption{position:static}
+input[type=text],input[type=password],input[type=number]{border-radius:0;-webkit-appearance:none;appearance:none}
+textarea{width:100%;padding:7px;border:1px solid #bebebe;font-size:12px;border-radius:2px;box-sizing:border-box;-webkit-appearance:none}
+table{border-collapse:collapse;border-spacing:0;table-layout:fixed;width:100%;zoom:1}
+hr{display:none}
+
+/*테이블대각선*/
+.backslash {
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg"><line x1="0" y1="0" x2="100%" y2="100%" stroke="gray" /></svg>');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+/* aline */
+.fl{float:left !important}
+.fr{float:right !important}
+.of_h:after{display:block;clear:both;content:''}
+.tar{text-align:right !important}
+.tac, .tc{text-align:center !important}
+.tal{text-align:left !important}
+.pr{position:relative !important}
+.pa{position:absolute !important}
+.tx_gotham{font-family:"Gotham Book"}
+.flex {display: flex;}
+.flex-c {display: flex; justify-content: center; align-items: center;}
+
+/* 글자 2줄만들기 */
+.wb{word-break:keep-all;word-wrap:break-word;white-space:pre-wrap;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto}
+/* 글자 여러줄 자르기 */
+.ellipsis_ver{overflow:hidden;text-overflow:ellipsis;-webkit-box-orient:vertical;word-wrap:break-word}
+
+/* link */
+a:link,a:visited{text-decoration:none}
+a:active,a:hover,a:focus{text-decoration:none}
+
+
+/*그리드*/
+.row { display: flex; flex-wrap: wrap; }
+.row > [class*='col_'] { width: 100%; box-sizing: border-box; }
+.row > .col_1 { width: 8.333%; }
+.row > .col_2 { width: 16.666%; }
+.row > .col_3 { width: 25%; }
+.row > .col_4 { width: 33.333%; }
+.row > .col_5 { width: 41.666%; }
+.row > .col_6 { width: 50%; }
+.row > .col_7 { width: 58.333%; }
+.row > .col_8 { width: 66.666%; }
+.row > .col_9 { width: 75%; }
+.row > .col_10 { width: 83.333%; }
+.row > .col_11 { width: 91.666%; }
+.row > .col_12 { width: 100%; }
+
+.mt10 {margin-top: 10px;}
+.mt15 {margin-top: 15px;}
+.mt30 {margin-top: 30px;}
+.mt60 {margin-top: 60px;}
+.mb15 {margin-bottom: 15px;}
+
+
+@media (max-width: 1200px) {
+  img {max-width: 100%}
+}
